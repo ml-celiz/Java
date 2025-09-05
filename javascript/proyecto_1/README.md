@@ -1,6 +1,6 @@
 # Aplicación de Presupuesto
 
-Aplicación sencilla hecha con **HTML, CSS y JavaScript** para gestionar ingresos y egresos, calculando el presupuesto disponible en tiempo real.
+Aplicación sencilla hecha con HTML, CSS y JavaScript para gestionar ingresos y egresos, calculando el presupuesto disponible en tiempo real.
 
 ## Funcionalidades
 - Agregar ingresos.
@@ -45,5 +45,5 @@ proyecto_1
 ## Captura de pantalla
 Ejemplo de cómo se vería tu aplicación:
 
-![Demo de la aplicación](img/demo.png)
+![Demo de la application](img/demo.png)
 
