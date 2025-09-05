@@ -27,7 +27,7 @@ proyecto_1
 ├── img/
 │   └── fondo.png           # Imagen de fondo
 │
-└── README.md               # Documentación del proyecto
+└── README.md               # Documentación
 ```
 
 ## Uso
