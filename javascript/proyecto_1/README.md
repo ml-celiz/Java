@@ -45,5 +45,5 @@ proyecto_1
 ## Captura de pantalla
 Ejemplo de cómo se vería tu aplicación:
 
-![Demo de la aplicación](img/demo.png)
+![Demo de la aplicación](img/demo.jpg)
 
