@@ -43,7 +43,7 @@ proyecto_1
 - JavaScript Vanilla (ES6+)
 
 ## Captura de pantalla
-Ejemplo de cómo se vería tu aplicación:
+Asi se va a ver tu app:
 
 ![Demo de la aplicación](img/demo.jpg)
 
