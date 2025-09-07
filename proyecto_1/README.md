@@ -14,7 +14,7 @@ Permite la gestión eficiente de inventarios a través de una interfaz web moder
 
 ### Frontend
 - **Angular**
-- **HTML5**, **CSS3**
+- **HTML5**, **CSS3**, **Bootstrap**
 - IDE: **Visual Studio Code**
 
 ### Herramientas adicionales
@@ -30,7 +30,7 @@ git clone https://github.com/ml-celiz/Java.git
 ```
 
 ### 2. Backend - Spring Boot
-1. Abrir el proyecto en **IntelliJ IDEA**.  
+1. Abrir el proyecto en IntelliJ IDEA.  
 2. Configurar la base de datos (en `application.properties` o `application.yml`).  
 3. Ejecutar la aplicación:
    ```bash
@@ -42,7 +42,7 @@ git clone https://github.com/ml-celiz/Java.git
    ```
 
 ### 3. Frontend - Angular
-1. Abrir la carpeta del frontend en **Visual Studio Code**.  
+1. Abrir la carpeta del frontend en Visual Studio Code.  
 2. Instalar dependencias:
    ```bash
    npm install
