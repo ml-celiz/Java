@@ -59,7 +59,6 @@ git clone https://github.com/ml-celiz/Java.git
 ---
 
 ## Pruebas con Postman
-- Se incluye una colección de **endpoints** para realizar pruebas sobre el backend.  
 - Endpoints principales:
   - `GET /api/productos` → listar productos
   - `POST /api/productos` → crear producto
