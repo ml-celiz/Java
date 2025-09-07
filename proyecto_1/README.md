@@ -26,7 +26,7 @@ Permite la gestión eficiente de inventarios a través de una interfaz web moder
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/sistema-inventarios.git
+git clone https://github.com/ml-celiz/Java.git
 ```
 
 ### 2. Backend - Spring Boot
